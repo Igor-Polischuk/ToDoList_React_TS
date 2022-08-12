@@ -1,0 +1,14 @@
+aside{
+    background: rgb(44,93,223);
+    background: linear-gradient(185deg, rgba(44,93,223,1) 0%, rgba(17,138,196,1) 100%);
+    min-height: 100vh;
+    
+}
+
+.aside__add{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 0;
+}
